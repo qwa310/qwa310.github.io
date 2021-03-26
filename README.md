@@ -1,5 +1,9 @@
 # qwa310.github.io
 
+## Blog Theme (Jekyll)
+[minimal-mistakes](https://github.com/mmistakes/minimal-mistakes)
+
+## Jekyll Struct
 directory | func
 ---------- | ----------
 _config.yml | 환경설정
