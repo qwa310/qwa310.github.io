@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "Jeongmin Park(박정민)"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/me.jpg"
   bio              : "**Full Stack**이 되는 그날까지"
   location         : "Busan, Republic of Korea"
   email            :
