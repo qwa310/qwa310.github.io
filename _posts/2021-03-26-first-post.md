@@ -10,7 +10,7 @@ last_modified_at: 2021-03-26T20:03:00-05:00
 ---
 
 ```python
-def print(name):
+def print_hi(name):
   print("Hello, ", name)
 print_hi("Tiger!")
 ```
