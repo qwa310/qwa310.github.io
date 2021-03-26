@@ -1,22 +1,24 @@
 ---
-title: "Welcome to Jekyll!"
-date: 2021-03-26 17:49:00 -0400
-categories: jekyll update
+title:  "github.io 블로그 시작"
+excerpt: "GitHub Blog를 운영해보려고 한다."
+
+categories:
+  - Blog
+tags:
+  - Blog
+last_modified_at: 2021-03-26T20:03:00-05:00
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
-
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
 
 ```python
-def print_hi(name):
-  print("hello", name)
-print_hi('Tom')
+def print(name):
+  print("Hello, ", name)
+print_hi("Tiger!")
 ```
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+GitHub Blog를 시작하기로 했다.
+작년 8월부터 DSC PKNU 동아리 활동 중인데 
+어제 pep talk에서 현직자 조언을 듣고 github.io 블로그를 만들었다.
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+따로 운영중인 기술 블로그가 없어서 이곳에 프로젝트나 스터디 경험을 정리하려고 한다.
+이 글의 제목은 {{ page.title }}이고
+마지막으로 수정된 시간은 {{ page.last_modified_at }}이다.

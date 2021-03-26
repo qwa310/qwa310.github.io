@@ -1,0 +1,9 @@
+# main links
+main:
+  - title: "블로그"
+    url: https://qwa310.github.io/
+  - title: "스터디"
+    url: /study/
+  - title: "프로젝트" 
+    url: /project/
+    
